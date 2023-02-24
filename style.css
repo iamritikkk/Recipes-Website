@@ -1,0 +1,16 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 0px;
+}
+ul li,
+ol li {
+  padding: 10px;
+  font-size: 18px;
+}
+img {
+  width: 400px;
+  height: auto;
+}
+.center {
+  text-align: center;
+}
